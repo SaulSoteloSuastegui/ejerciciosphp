@@ -47,7 +47,7 @@ class Modelo{
     <meta charset="utf-8">
     <title>Maquetar una pagina</title>
     
-    <link rel="stylesheet" type="text/css" href="styles.css"/>
+    <link rel="stylesheet" type="text/css" href="../styles.css"/>
 </head>
 
 
